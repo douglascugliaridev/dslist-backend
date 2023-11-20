@@ -1,5 +1,6 @@
 package br.com.douglascugliari.dslist.repositories;
 
+import br.com.douglascugliari.dslist.dto.GameDTO;
 import br.com.douglascugliari.dslist.entities.Game;
 import org.springframework.data.jpa.repository.JpaRepository;
 
